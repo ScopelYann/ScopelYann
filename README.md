@@ -6,7 +6,7 @@
 
 🌐 Além disso, sou entusiasta de open source e acredito no poder da comunidade para impulsionar a inovação. Meu objetivo é contribuir para projetos que agreguem valor à comunidade de desenvolvimento.
 
-📫 Vamos colaborar e construir algo incrível juntos! Entre em contato: [SeuEmail@gmail.com]
+📫 Vamos colaborar e construir algo incrível juntos! Entre em contato: [devscopelyan@gmail.com]
 
 Happy coding! 🚀
 
