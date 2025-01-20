@@ -10,4 +10,4 @@ Happy coding! 🚀
 
 
 <strong>Languages and tools utilized</strong><br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,postgres,mongo,express)](https://skillicons.dev)
