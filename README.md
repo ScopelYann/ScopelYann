@@ -1,9 +1,6 @@
-Olá! Sou Yan o desenvolvedor full-stack com experiência em criar aplicações modernas e escaláveis, tanto no front-end quanto no back-end. Meu foco é entregar soluções eficientes, com design elegante e performance otimizada. Sou apaixonado por aprender novas tecnologias e trabalhar em projetos desafiadores.
+Desenvolvedor de software com experiência na construção de aplicações escaláveis no front-end e back-end.  
+Foco em arquitetura de sistemas, automação de processos, APIs e integração de inteligência artificial em aplicações.
 
-📫 Vamos colaborar e construir algo incrível juntos! Entre em contato: [devscopelyan@gmail.com]
+<strong>Linguagens e Ferramentas</strong>
 
-Happy coding! 🚀
-
-
-<strong>Languages and tools utilized</strong><br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,postgres,mongo,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,nodejs,react,reactnative,postgres,mongo,docker,aws,git,github,n8n)](https://skillicons.dev)
