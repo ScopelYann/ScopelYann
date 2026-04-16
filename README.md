@@ -1,100 +1,116 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Yan+Victor+%F0%9F%91%8B;Full-Stack+Developer;Arquitetura+%2B+Automação+%2B+IA" alt="Typing SVG" />
+<h1>Olá, eu sou Yan Victor 👋</h1>
+<h3>Full-Stack Developer • Arquitetura • Automação • IA</h3>
 
-<br><br>
+<br/>
 
-<em>
-Desenvolvedor de software com experiência na construção de aplicações escaláveis no front-end e back-end.<br>
-Foco em arquitetura de sistemas, automação de processos, APIs e integração de inteligência artificial em aplicações.
-</em>
+<p align="center">
+  <em>
+    Desenvolvedor de software com experiência na construção de aplicações escaláveis no front-end e back-end.<br/>
+    Foco em arquitetura de sistemas, automação de processos, APIs e integração de inteligência artificial em aplicações.
+  </em>
+</p>
 
-<br><br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Scopelyann&label=Visitas+ao+perfil&color=6366f1&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/Scopelyann?label=Seguidores&style=for-the-badge&color=6366f1&labelColor=1a1a2e" alt="followers"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Scopelyann&label=Visitas+ao+perfil&color=6366f1&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Scopelyann?label=Seguidores&style=for-the-badge&color=6366f1&labelColor=1a1a2e"/>
+</p>
 
 </div>
 
 ---
 
-# Sobre mim
+## 🧠 Sobre mim
 
-- **Full-Stack Developer**
-- Foco em **Arquitetura de Sistemas**, **Automação** e **Integração com IA**
-- Atualmente construindo o **Sistema Nissi**, voltado para gestão de equipes missionárias
-- Trabalho com aplicações modernas no front-end, back-end e infraestrutura
-- Sempre buscando evoluir em engenharia de software, performance e escalabilidade
+- 💻 **Full-Stack Developer**
+- 🧱 Foco em **Arquitetura de Sistemas**, **Automação** e **Integração com IA**
+- 🚀 Atualmente construindo o **Sistema Nissi**, voltado para gestão de equipes missionárias
+- 🛠️ Experiência com aplicações modernas no front-end, back-end e infraestrutura
+- 📚 Evoluindo constantemente em engenharia de software, performance e escalabilidade
 
 ---
 
-# Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
 
-## Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" alt="Linguagens" />
+### Linguagens
+<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" />
 
-## Frontend
-<img src="https://skillicons.dev/icons?i=react,reactnative,html,css&theme=dark" alt="Frontend" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,reactnative,html,css&theme=dark" />
 
-## Backend & Banco de Dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongo&theme=dark" alt="Backend e Banco de Dados" />
+### Backend & Banco de Dados
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongo&theme=dark" />
 
-## DevOps, Cloud & Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark" alt="DevOps e Ferramentas" />
+### DevOps, Cloud & Ferramentas
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,n8n&theme=dark" />
 
 </div>
 
 ---
 
-# Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scopelyann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scopelyann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scopelyann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" alt="Top Langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scopelyann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 ---
 
-# Sequência de Contribuições
+## 🔥 Sequência de Contribuições
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Scopelyann&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e&stroke=21262d&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Scopelyann&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# Gráfico de Atividade
+## 🏆 Troféus
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scopelyann&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=Scopelyann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
 ---
 
-# Contribuições
+## 📈 Gráfico de Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scopelyann&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scopelyann/Scopelyann/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Scopelyann/Scopelyann/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Scopelyann/Scopelyann/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Scopelyann/Scopelyann/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-# Onde me encontrar
+## 🌐 Onde me encontrar
 
 <div align="center">
 
