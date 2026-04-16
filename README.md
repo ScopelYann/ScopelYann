@@ -1,18 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Yan%20Victor&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IA%20%7C%20Automação&descAlignY=55&descAlign=50)
+
 <div align="center">
 
-<img src="./yan-title.svg" alt="Olá, eu sou Yan Victor" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Yan+Victor+%F0%9F%91%8B;Full-Stack+Developer;Arquitetura+%2B+Automação+%2B+IA)](https://git.io/typing-svg)
 
-<br/><br/>
+*Desenvolvedor de software com experiência na construção de aplicações escaláveis.*  
+*Foco em arquitetura de sistemas, automação de processos, APIs e integração de IA.*
 
-<em>
-Desenvolvedor de software com experiência na construção de aplicações escaláveis no front-end e back-end.<br/>
-Foco em arquitetura de sistemas, automação de processos, APIs e integração de inteligência artificial em aplicações.
-</em>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Scopelyann&label=Visitas+ao+perfil&color=6366f1&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Scopelyann?label=Seguidores&style=for-the-badge&color=6366f1&labelColor=1a1a2e"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Scopelyann&label=Visitas+ao+perfil&color=6366f1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Scopelyann?label=Seguidores&style=for-the-badge&color=6366f1&labelColor=1a1a2e)
 
 </div>
 
@@ -20,11 +16,20 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 ## 🧠 Sobre mim
 
-- 💻 **Full-Stack Developer**
-- 🧱 Foco em **Arquitetura de Sistemas**, **Automação** e **Integração com IA**
-- 🚀 Atualmente construindo o **Sistema Nissi**, voltado para gestão de equipes missionárias 🌍
-- 🛠️ Experiência com aplicações modernas no front-end, back-end e infraestrutura
-- 📚 Evoluindo constantemente em engenharia de software, performance e escalabilidade
+```typescript
+const yanVictor = {
+  role:       "Full-Stack Developer",
+  focus:      ["Arquitetura de Sistemas", "Automação", "Integração com IA"],
+  stack: {
+    frontend: ["React", "TypeScript", "React Native"],
+    backend:  ["Node.js", "Express", "PostgreSQL", "MongoDB"],
+    devops:   ["Docker", "AWS", "GitHub Actions"],
+    ai:       ["n8n", "Google Gemini", "Agentes de IA"],
+  },
+  currently:  "Construindo o sistema Nissi — gestão de equipes missionárias 🌍",
+  languages:  ["TypeScript", "JavaScript", "Python"],
+};
+```
 
 ---
 
@@ -32,17 +37,21 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 <div align="center">
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" />
+**Linguagens**
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,reactnative,html,css&theme=dark" />
+![Linguagens](https://skillicons.dev/icons?i=js,ts,python&theme=dark)
 
-### Backend & Banco de Dados
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongo&theme=dark" />
+**Frontend**
 
-### DevOps, Cloud & Ferramentas
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,n8n&theme=dark" />
+![Frontend](https://skillicons.dev/icons?i=react,reactnative,html,css&theme=dark)
+
+**Backend & Banco de Dados**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mongo&theme=dark)
+
+**DevOps, Cloud & Ferramentas**
+
+![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,n8n&theme=dark)
 
 </div>
 
@@ -52,9 +61,9 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scopelyann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+![Yan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scopelyann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scopelyann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scopelyann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8)
 
 </div>
 
@@ -64,7 +73,7 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Scopelyann&theme=tokyonight&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Scopelyann&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e&stroke=21262d&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
@@ -74,7 +83,7 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Scopelyann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Scopelyann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -84,23 +93,51 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scopelyann&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Scopelyann&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Snake de Contribuições
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Scopelyann/Scopelyann/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Scopelyann/Scopelyann/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Scopelyann/Scopelyann/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![snake gif](https://raw.githubusercontent.com/Scopelyann/Scopelyann/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+> Para ativar a snake, crie `.github/workflows/snake.yml` com o conteúdo abaixo e execute o workflow manualmente uma vez.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
@@ -114,8 +151,4 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=90&section=footer" />
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer)
