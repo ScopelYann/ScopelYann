@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mim
 
-```typescript
+typescript
 const yanVictor = {
   role:       "Full-Stack Developer",
   focus:      ["Arquitetura de Sistemas", "Automação", "Integração com IA"],
