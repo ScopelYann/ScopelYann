@@ -18,17 +18,17 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 ---
 
-# 🧠 Sobre mim
+# Sobre mim
 
-- 💻 **Full-Stack Developer**
-- 🧱 Foco em **Arquitetura de Sistemas**, **Automação** e **Integração com IA**
-- 🚀 Atualmente construindo o **Sistema Nissi**, voltado para gestão de equipes missionárias
-- 🛠️ Trabalho com aplicações modernas no front-end, back-end e infraestrutura
-- 📚 Sempre buscando evoluir em engenharia de software, performance e escalabilidade
+- **Full-Stack Developer**
+- Foco em **Arquitetura de Sistemas**, **Automação** e **Integração com IA**
+- Atualmente construindo o **Sistema Nissi**, voltado para gestão de equipes missionárias
+- Trabalho com aplicações modernas no front-end, back-end e infraestrutura
+- Sempre buscando evoluir em engenharia de software, performance e escalabilidade
 
 ---
 
-# 🚀 Tecnologias & Ferramentas
+# Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -48,7 +48,7 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 ---
 
-# 📊 Estatísticas do GitHub
+# Estatísticas do GitHub
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 ---
 
-# 🔥 Sequência de Contribuições
+# Sequência de Contribuições
 
 <div align="center">
 
@@ -70,17 +70,7 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 ---
 
-# 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Scopelyann&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-
-</div>
-
----
-
-# 📈 Gráfico de Atividade
+# Gráfico de Atividade
 
 <div align="center">
 
@@ -90,7 +80,7 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 ---
 
-# 🐍 Contribuições
+# Contribuições
 
 <div align="center">
 
@@ -104,7 +94,7 @@ Foco em arquitetura de sistemas, automação de processos, APIs e integração d
 
 ---
 
-# 🌐 Onde me encontrar
+# Onde me encontrar
 
 <div align="center">
 
