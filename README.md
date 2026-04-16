@@ -16,19 +16,19 @@
 
 ## Sobre mim
 
-- 💻 **Full-Stack Developer**
-- 🧱 Foco em **Arquitetura de Sistemas**, **Automação** e **Integração com IA**
-- ⚙️ **Stack:**
+- ** Full-Stack Developer**
+- Foco em **Arquitetura de Sistemas**, **Automação** e **Integração com IA**
+- **Stack:**
   - Frontend: React, TypeScript, React Native
   - Backend: Node.js, Express, PostgreSQL, MongoDB
   - DevOps: Docker, AWS, GitHub Actions
   - IA: n8n, Google Gemini, Agentes de IA
-- 🚀 Atualmente: Construindo o **Sistema Nissi** — gestão de equipes missionárias 🌍
-- 🌐 Linguagens: TypeScript, JavaScript, Python
+- Atualmente: Construindo o **Sistema Nissi** — gestão de equipes missionárias 🌍
+- Linguagens: TypeScript, JavaScript, Python
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -52,8 +52,8 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
+## Estatísticas do GitHub
+-
 <div align="center">
 
 ![Yan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scopelyann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&ring_color=6366f1)
@@ -64,7 +64,7 @@
 
 ---
 
-## 🔥 Sequência de Contribuições
+## Sequência de Contribuições
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🏆 Troféus
+## Troféus
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 📈 Gráfico de Atividade
+## Gráfico de Atividade
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 ---
 
-## 🐍 Snake de Contribuições
+## Snake de Contribuições
 
 <div align="center">
 
@@ -104,8 +104,7 @@
 
 > Para ativar a snake, crie `.github/workflows/snake.yml` com o conteúdo abaixo e execute o workflow manualmente uma vez.
 
-```yaml
-name: Generate Snake
+```name: Generate Snake
 
 on:
   schedule:
@@ -136,7 +135,7 @@ jobs:
 
 ---
 
-## 🌐 Onde me encontrar
+## Onde me encontrar
 
 <div align="center">
 
