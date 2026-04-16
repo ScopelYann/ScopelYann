@@ -14,22 +14,17 @@
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-typescript
-const yanVictor = {
-  role:       "Full-Stack Developer",
-  focus:      ["Arquitetura de Sistemas", "Automação", "Integração com IA"],
-  stack: {
-    frontend: ["React", "TypeScript", "React Native"],
-    backend:  ["Node.js", "Express", "PostgreSQL", "MongoDB"],
-    devops:   ["Docker", "AWS", "GitHub Actions"],
-    ai:       ["n8n", "Google Gemini", "Agentes de IA"],
-  },
-  currently:  "Construindo o sistema Nissi — gestão de equipes missionárias 🌍",
-  languages:  ["TypeScript", "JavaScript", "Python"],
-};
-```
+- 💻 **Full-Stack Developer**
+- 🧱 Foco em **Arquitetura de Sistemas**, **Automação** e **Integração com IA**
+- ⚙️ **Stack:**
+  - Frontend: React, TypeScript, React Native
+  - Backend: Node.js, Express, PostgreSQL, MongoDB
+  - DevOps: Docker, AWS, GitHub Actions
+  - IA: n8n, Google Gemini, Agentes de IA
+- 🚀 Atualmente: Construindo o **Sistema Nissi** — gestão de equipes missionárias 🌍
+- 🌐 Linguagens: TypeScript, JavaScript, Python
 
 ---
 
